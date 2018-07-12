@@ -28,6 +28,7 @@ end
 def add_song(library)
 library[:BTS] = "DNA"
 puts library
+end
 
 
 
